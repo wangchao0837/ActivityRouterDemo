@@ -1,0 +1,3 @@
+rootProject.name='ArouterDemo'
+include ':app'
+include ':module1'
