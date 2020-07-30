@@ -1,0 +1,2 @@
+# ActivityRouterDemo
+ActivityRouter简单实用，Activity跳转和静态方法调用，参数传递和transfer参数name转换。
